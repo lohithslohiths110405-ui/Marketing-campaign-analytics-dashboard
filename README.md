@@ -93,6 +93,8 @@ MCA – Data Science
 
 ## Dashboard Preview
 
-![Marketing Campaign Dashboard](Screenshots/marketing_dashboard.png)
+### Marketing Campaign Dashboard
+
+![Marketing Campaign Dashboard](marketing_dashboard.png)
 
 
