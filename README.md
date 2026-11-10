@@ -90,3 +90,9 @@ Business Intelligence | Marketing Analytics | Data Visualization
 Lohith S
 
 MCA – Data Science
+
+## Dashboard Preview
+
+![Marketing Campaign Dashboard](Screenshots/marketing_dashboard.png)
+
+
